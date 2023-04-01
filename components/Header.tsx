@@ -17,7 +17,7 @@ export default function Header() {
         </h1>
       </Link>
       <Link
-        href="https://twitter.com/twekaone"
+        href="https://twitter.com/garvitishere"
         target="_blank"
         rel="noreferrer"
       >
